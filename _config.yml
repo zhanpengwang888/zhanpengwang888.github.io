@@ -9,7 +9,7 @@
 title: Zhanpeng Wang
 email: zwang10@haverford.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Zhanpeng Wang's personal website. Haverford College Class of 2020. Major is Computer Science, and minor is Economics.
+  Zhanpeng Wang's personal website. Haverford College Class of 2020. Major in Computer Science, and minor in Economics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://zhanpengwang888.com" # the base hostname & protocol for your site
 twitter_username: zhanpeng.wang.7
