@@ -17,3 +17,5 @@ github_username:  zhanpengwang888
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
