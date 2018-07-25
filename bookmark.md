@@ -6,7 +6,7 @@ menu: Bookmark
 ---
 
 ## Publications
-- **Racets: Faceted Execution in Racket.** Kristopher Micinski, Zhanpeng Wang, and Thomas Gilray. In *submission to Scheme and Functional Programming '18*, 2018. [pdf](/assets/files/scheme19.pdf)
+- **Racets: Faceted Execution in Racket.** Kristopher Micinski, Zhanpeng Wang, and Thomas Gilray. In *submission to Scheme and Functional Programming '18*, 2018. [pdf](/assets/files/scheme19.pdf) [git repo](https://github.com/fordsec/racets)
 
 ## Java
 - [Dom4j](https://dom4j.github.io/) - Flexible XML framework
