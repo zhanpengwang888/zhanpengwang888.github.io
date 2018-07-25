@@ -5,6 +5,7 @@
         <h2>About me</h2>
 
         <p>I am a college student from Haverford College majoring in Computer Science and minoring in Economics.
+            I am also an animal lover who loves dog, cat, and other cute animals.
             During my free time I like to do workouts in gym, play basketball and badminton with my friends, play 
             guitar (will learn it this summer 2018!), and learn different cool stuffs. Never give up easily. Work hard,
             and train hard. And I am still single.</p>
@@ -15,6 +16,21 @@
             <li>Email：<a href="mailto:{{ site.email }}" target="_top">{{ site.email }}</a></li>
             <li>GitHub：<a href="{{ site.github_url }}">{{ site.github_url }}</a></li>
         </ul>
+
+        <h2>Courses taken so far</h2>
+        
+        {% if site.courses_taken_so_far %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Courses Keywords</h3>
+            </div>
+            <div class="panel-body">
+                {% for keyword in site.courses_taken_so_far %}
+                <button class="btn btn-default" type="button">{{ keyword }}</button>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
 
         <h2>Skill Keywords</h2>
 
