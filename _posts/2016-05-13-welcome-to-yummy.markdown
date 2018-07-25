@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-13 13:25:35 +0200
+title:  "Welcome to my Webpage!"
+date:   2018-07-25 12:17:35 +0200
 categories: jekyll update
 ---
 
-Welcome to use Yummy Jekyll as your jekyll theme!
+Welcome to my webpage!
 
-## Yummy Jekyll
-
-## How to install
-
-## Licence
+I have nothing to post yet. Will post something soon!

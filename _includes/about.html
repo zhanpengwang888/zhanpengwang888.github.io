@@ -4,7 +4,10 @@
 
         <h2>About me</h2>
 
-        <p>BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla BlaBlaBla</p>
+        <p>I am a college student from Haverford College majoring in Computer Science and minoring in Economics.
+            During my free time I like to do workouts in gym, play basketball and badminton with my friends, play 
+            guitar (will learn it this summer 2018!), and learn different cool stuffs. Never give up easily. Work hard,
+            and train hard. And I am still single.</p>
 
         <h2>Contact</h2>
 
@@ -28,32 +31,6 @@
         </div>
         {% endif %}
 
-        {% if site.skill_j2ee_keywords %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">J2EE Developer Keywords</h3>
-            </div>
-            <div class="panel-body">
-                {% for keyword in site.skill_j2ee_keywords %}
-                <button class="btn btn-default" type="button">{{ keyword }}</button>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
-
-        {% if site.skill_mobile_app_keywords %}
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3 class="panel-title">Mobile Developer Keywords</h3>
-            </div>
-            <div class="panel-body">
-                {% for keyword in site.skill_mobile_app_keywords %}
-                <button class="btn btn-default" type="button">{{ keyword }}</button>
-                {% endfor %}
-            </div>
-        </div>
-        {% endif %}
-
         {% if site.skill_web_keywords %}
         <div class="panel panel-default">
             <div class="panel-heading">
@@ -61,6 +38,19 @@
             </div>
             <div class="panel-body">
                 {% for keyword in site.skill_web_keywords %}
+                <button class="btn btn-default" type="button">{{ keyword }}</button>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+
+        {% if site.skill_languages %}
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">Natural Language Keywords</h3>
+            </div>
+            <div class="panel-body">
+                {% for keyword in site.skill_languages %}
                 <button class="btn btn-default" type="button">{{ keyword }}</button>
                 {% endfor %}
             </div>
