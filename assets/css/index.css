@@ -2,7 +2,7 @@
 
 .site-header{
     color: #fff;
-    background: #4183c4;
+    background:rgba(0,0,0,0.5);
 }
 
 .site-header #site-header-brand {
@@ -10,7 +10,7 @@
 }
 
 .site-header .site-header-nav-item {
-    color: #9acfea;
+    color: #fff;
 }
 
 .site-header a:hover {
