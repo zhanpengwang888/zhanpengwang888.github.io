@@ -3,7 +3,6 @@ layout: post
 title: CSS Animation
 category: CSS
 tags: [css]
-comments: true
 ---
 
 Quick note about CSS animation. 
