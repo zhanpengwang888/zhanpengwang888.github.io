@@ -6,6 +6,7 @@ css: ['index.css', 'sidebar-popular-repo.css']
 <section class="jumbotron">
     <div class="container">
         <h1>{{ site.title }}</h1>
+        <h3>College Student. Major in Computer Science, minor in Economics</h3>
         <div id="jumbotron-meta-info">
             {% if site.location %}
             <span class="meta-info">
@@ -27,6 +28,12 @@ css: ['index.css', 'sidebar-popular-repo.css']
                 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
                 <span class="fa fa-facebook-f"></span>
                 <a href="{{ site.facebook_url }}" target="_blank">@{{ site.facebook_username }}</a>
+            </span> {% endif %}
+            {% if site.linkedin_username %}
+            <span class="meta-info hvr-grow">
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <span class="fa fa-linkedin-square"></span>
+                <a href="{{ site.linkedin_url }}" target="_blank">@{{ site.linkedin_username }}</a>
             </span> {% endif %}
         </div>
     </div>

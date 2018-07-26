@@ -17,8 +17,10 @@ github_username: zhanpengwang888 # ex. DONGChuan
 description: Zhanpeng Wang's personal website. Haverford College Class of 2020. Major in Computer Science, and minor in Economics.
 favicon: favicon.png # Image must be in assets/images
 repository: zhanpengwang888/zhanpengwang888.github.io # ex. DONGChuan/DONGChuan.github.io
-facebook_username: zhanpeng.wang.7
+facebook_username: Zhanpeng Wang
 facebook_url: https://www.facebook.com/zhanpeng.wang.7
+linkedin_username: Zhanpeng Wang
+linkedin_url: https://www.linkedin.com/in/zhanpeng-wang-05102a122/
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
