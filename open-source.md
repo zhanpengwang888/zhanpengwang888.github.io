@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Open Source Projects
-menu: open-source
+menu: projects
+permalink: /projects
 css: ['open-source.css']
 javascript: ['underscore-min.js']
 ---

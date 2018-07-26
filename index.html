@@ -22,6 +22,12 @@ css: ['index.css', 'sidebar-popular-repo.css']
                 <span class="octicon octicon-mark-github"></span>
                 <a href="{{ site.github_url }}" target="_blank">@{{ site.github_username }}</a>
             </span> {% endif %}
+            {% if site.facebook_username %}
+            <span class="meta-info hvr-grow">
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <span class="fa fa-facebook-f"></span>
+                <a href="{{ site.facebook_url }}" target="_blank">@{{ site.facebook_username }}</a>
+            </span> {% endif %}
         </div>
     </div>
 </section>
