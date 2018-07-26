@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Bookmarks
+title: Useful Links
 subtitle: <span class="mega-octicon octicon-repo"></span>&nbsp;&nbsp; To mark useful libs - tools - books, Also include my publications
 menu: Bookmark
+permalink: /useful_links
 ---
 
 ## Publications

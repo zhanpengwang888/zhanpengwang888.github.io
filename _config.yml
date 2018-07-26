@@ -73,8 +73,8 @@ navs:
     label: Blog
 
   -
-    href: /bookmark
-    label: Bookmark
+    href: /useful_links
+    label: Useful Links
 
   -
     href: /about
