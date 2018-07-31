@@ -36,5 +36,8 @@
     {% endfor %}
 
     <script type="text/javascript" src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-
+    
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 </head>
