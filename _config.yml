@@ -89,7 +89,7 @@ analytics :
   google :
       tracking_id : 'UA-123175385-1'  # ex. UA-72165600-X
 
-# google_analytics: UA-123175385-1
+google_analytics: UA-123175385-1
 
 # For about.html. Feel free to create your own!
 skill_software_keywords: [Java, C/C++, Python, MySQL, SQLite, Racket, Scheme, Stata 14, Processing]
