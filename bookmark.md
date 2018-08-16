@@ -7,7 +7,7 @@ permalink: /useful_links
 ---
 
 ## My Publications
-- **Racets: Faceted Execution in Racket.** Kristopher Micinski, Zhanpeng Wang, and Thomas Gilray. In *submission to Scheme and Functional Programming '18*, 2018. [pdf](/assets/files/scheme19.pdf) [git repo](https://github.com/fordsec/racets)
+- **Racets: Faceted Execution in Racket.** Kristopher Micinski, Zhanpeng Wang, and Thomas Gilray. In *Scheme and Functional Programming '18*, 2018. [pdf](/assets/files/scheme19.pdf) [git repo](https://github.com/fordsec/racets)
 
 ## Web Browser Automation
 - [Selenium](https://www.seleniumhq.org/) - A good tool for automatically using a web browser by writing some Python script
