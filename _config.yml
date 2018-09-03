@@ -95,7 +95,8 @@ google_analytics: UA-123175385-1
 skill_software_keywords: [Java, C/C++, Python, MySQL, SQLite, Racket, Scheme, Stata 14, Processing]
 skill_web_keywords: [HTML5, CSS, JavaScript, JQuery, NodeJS, Flask, Django]
 skill_languages: [Mandarin, Cantonese, English, Japanese, Hakka, French, Latin]
-courses_taken_so_far: [CMSC355 Operating System, CMSC311 Computer Security, LING101 Intro to Linguistics, JNSE001-002
-                      First Year Japanese Intensive, CMSC245 Principle to Programming Languages, ECON304 Intro to Econometrics,
-                      MATH215 Linear Algebra, CMSC231 Discrete Mathematics, ECON204 Economic Statistics with Calculus, ECON105
-                      Intro to Economics, CMSC105 Intro to CS, CMSC106 Intro to Data Structure.]
+courses_taken_so_far: [CMSC395 Mobile Development, CMSC340 Analysis of Algorithms, CMSC240 Computer Organization ,CMSC355 Operating System,
+                      CMSC311 Computer Security, CMSC245 Principle to Programming Languages, ECON304 Intro to Econometrics,
+                      MATH215 Linear Algebra, CMSC231 Discrete Mathematics, ECON204 Economic Statistics with Calculus, 
+                      CMSC105 Intro to CS, CMSC106 Intro to Data Structure, ECON105 Intro to Economics, LING101 Intro to Linguistics,
+                      JNSE001-002 First Year Japanese Intensive]
