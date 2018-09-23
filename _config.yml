@@ -94,7 +94,7 @@ google_analytics: UA-123175385-1
 # For about.html. Feel free to create your own!
 skill_software_keywords: [Java, C/C++, Python, MySQL, SQLite, Racket, Scheme, Stata 14, Processing]
 skill_web_keywords: [HTML5, CSS, JavaScript, JQuery, NodeJS, Flask, Django]
-skill_languages: [Mandarin, Cantonese, English, Japanese, Hakka, French, Latin]
+skill_languages: [Mandarin, Cantonese, Hakka, English, Japanese, French, Latin]
 courses_taken_so_far: [CMSC395 Mobile Development, CMSC340 Analysis of Algorithms, CMSC240 Computer Organization ,CMSC355 Operating System,
                       CMSC311 Computer Security, CMSC245 Principle to Programming Languages, ECON304 Intro to Econometrics,
                       MATH215 Linear Algebra, CMSC231 Discrete Mathematics, ECON204 Economic Statistics with Calculus, 

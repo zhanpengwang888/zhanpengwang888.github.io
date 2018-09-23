@@ -2,13 +2,13 @@
 layout: page
 title: About ME!
 menu: about
-subtitle:   <!-- <h3>Download My CV</h3> -->
+subtitle:   <h3>Download My Résume</h3>
             <!-- <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Chuan_Dong_FR.pdf" target="_blanks">
                 <span class="flag-icon flag-icon-bl"></span> Français
             </a> -->
-            <!-- <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Chuan_Dong_FR.pdf" target="_blanks">
+            <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/Wang-Zhanpeng-Resume.pdf" target="_blanks">
                 <span class="flag-icon flag-icon-gb"></span> English
-            </a> -->
+            </a>
             <!-- <a role="button" class="btn btn-primary hvr-grow-shadow" href="/assets/files/CV_Chuan_Dong_FR.pdf" target="_blanks">
                 <span class="flag-icon flag-icon-cn"></span> 中文
             </a> -->
