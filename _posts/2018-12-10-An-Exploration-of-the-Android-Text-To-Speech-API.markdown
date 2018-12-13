@@ -240,6 +240,7 @@ What is not shown in the main page of the app is that each time the app speaks a
 
 Notice that we have to check the build version of the device because we are using different `TextToSpeech.synthesizeToFile()` method for different build version due to deprecation. With these code, the app will get the text from `EditText` view and check if there is associated audio file. If there is, we associate the given text with the audio file via `mTextToSpeech.addSpeech(textForSpeech, audioFileCompletePath)`. If not, the app synthesizes the speech and stores it as .mp3 file under the Music folders. At the end the app pushes the speak request to the queue and speaks it out loud. The result of running this part of codes is shown below:
 <p><img src="/assets/images/TTSExampleAppScreenShot4.png" alt="TTS Example app screenshot4" width="300" height="451" /></p>
+
 If you want to see the full implementation of this example app, you can check out this [Example App](https://github.com/zhanpengwang888/TTSExampleApp) in my git repository.
 
 ## Conclusion
