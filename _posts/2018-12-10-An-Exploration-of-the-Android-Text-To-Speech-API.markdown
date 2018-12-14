@@ -125,7 +125,7 @@ As we can see, this example app allows user to choose among Chinese, English, Fr
 <p><img src="/assets/images/TTSExampleAppScreenShot2.png" alt="TTS Example app screenshot2" width="300" height="451" /></p>
 (Speak "Hi" in robotic-sound English)
 
-<p><img src="/assets/images/TTSExampleAppScreenShot3.png" alt="TTS Example app screenshot3" width="300" height="451" /></p>
+<p><img src="assets/images/TTSExampleAppscreenShot3.png" alt="TTS Example app screenshot3" width="300" height="451" /></p>
 (Speak "Bonjour" in robotic-sound French)
 
 The codes and the xml template that accomplish the switching of the languages for the app are shown below:
