@@ -132,34 +132,33 @@ The codes and the xml template that accomplish the switching of the languages fo
 
 ```java
 RadioGroup radioGroup = findViewById(R.id.radioGroup);
-        radioGroup.clearCheck();
-
-        radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(RadioGroup group, int checkedId) {
-                RadioButton languageRadioButton = group.findViewById(checkedId);
-                if (languageRadioButton != null) {
-                    switch (languageRadioButton.getText().toString()) {
-                        case "English":
-                            mTextToSpeech.setLanguage(Locale.US);
-                            break;
-                        case "French":
-                            mTextToSpeech.setLanguage(Locale.FRANCE);
-                            break;
-                        case "Chinese":
-                            mTextToSpeech.setLanguage(Locale.CHINESE);
-                            break;
-                        case "Spanish":
-                            mTextToSpeech.setLanguage(new Locale("es"));
-                            break;
-                        default:
-                            mTextToSpeech.setLanguage(Locale.US);
-                            break;
-                    }
-                    isSameLanguage = false;
-                }
+radioGroup.clearCheck();
+radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+    @Override
+    public void onCheckedChanged(RadioGroup group, int checkedId) {
+        RadioButton languageRadioButton = group.findViewById(checkedId);
+        if (languageRadioButton != null) {
+            switch (languageRadioButton.getText().toString()) {
+                case "English":
+                    mTextToSpeech.setLanguage(Locale.US);
+                    break;
+                case "French":
+                    mTextToSpeech.setLanguage(Locale.FRANCE);
+                    break;
+                case "Chinese":
+                    mTextToSpeech.setLanguage(Locale.CHINESE);
+                    break;
+                case "Spanish":
+                    mTextToSpeech.setLanguage(new Locale("es"));
+                    break;
+                default:
+                    mTextToSpeech.setLanguage(Locale.US);
+                    break;
             }
-        });
+            isSameLanguage = false;
+        }
+    }
+});
 ```
 
 activity_main.xml
