@@ -93,7 +93,7 @@ analytics :
 google_analytics: UA-123175385-1
 
 # For about.html.
-skill_software_keywords: [Python, Java, C/C++, MySQL, SQLite, Racket, Scheme, Stata 14, Processing]
+skill_software_keywords: [Python, Java, hack, C/C++, MySQL, SQLite, Racket, Scheme, Stata 14, Processing]
 skill_web_keywords: [HTML5, CSS, JavaScript, JQuery, NodeJS, Flask, Django]
 skill_languages: [English, Hakka, Mandarin, Cantonese, Japanese, French, Latin]
 courses_taken_so_far: [CIS519 Applied Machine Learning, CMSC356 Concurrency and Co-Design in Operating Systems,

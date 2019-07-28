@@ -24,6 +24,7 @@ permalink: /useful_links
 - [Protection Against XSS Attack](https://www.hacksplaining.com/prevention/xss-stored) - Protection mechanisms against XSS attack.
 
 ## Helpful Links
+- [CSS Cheat Sheet] (https://websitesetup.org/css3-cheat-sheet/) - CSS Complete Cheat Sheet by WebsiteSetup.org
 - [Emacs Cheat Sheet](http://www.rgrjr.com/emacs/emacs_cheat.html) - Emacs Helpful Tips
 - [GDB Cheat Sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf) - GDB Quick Reference for Debugging C/C++ programs
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Practical Tips
