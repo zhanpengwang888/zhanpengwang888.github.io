@@ -7,6 +7,7 @@ permalink: /useful_links
 ---
 
 ## My Publications
+- **Automatic Inference of Demographic Parameters Using Generative Adversarial Networks.** Zhanpeng Wang, Jiaping Wang, Michael Kourakos, Nhung Hoang, Hyong Hark Lee, Iain Mathieson, Sara Mathieson bioRxiv 2020.08.05.237834; doi: [https://doi.org/10.1101/2020.08.05.237834](https://doi.org/10.1101/2020.08.05.237834)
 - **Racets: Faceted Execution in Racket.** Kristopher Micinski, Zhanpeng Wang, and Thomas Gilray. In *Scheme and Functional Programming '18*, 2018. [pdf](/assets/files/scheme19.pdf) [git repo](https://github.com/fordsec/racets)
 
 ## Web Browser Automation
