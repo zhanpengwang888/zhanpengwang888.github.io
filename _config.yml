@@ -29,7 +29,7 @@ url: https://zhanpengwang888.github.io/
 # url: http://localhost:4000
 
 ## Gem
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-geo-pattern
   - rouge
@@ -50,7 +50,7 @@ defaults: []
 
 kramdown:
   input: GFM
-  enable_coderay: true
+  syntax_highlighter: coderay
 
 # Disque
 disque: zhanpengwang888githubio.disqus.com
@@ -96,8 +96,8 @@ google_analytics: UA-123175385-1
 skill_software_keywords: [Python, Java, Kotlin, PHP/Hack, C/C++, MySQL, SQLite, Racket/Scheme, Stata 14, Processing]
 skill_web_keywords: [HTML5, CSS, JavaScript, JQuery, NodeJS, Flask, Django]
 skill_languages: [English, Hakka, Mandarin, Cantonese, Japanese, French, Latin]
-courses_taken_so_far: [CIS555 Internet and Web Systems, CIS521 Artificial Intelligence, CIS519 Applied Machine Learning, 
-                      CMSC350 Theory of Computation, CMSC356 Concurrency and Co-Design in Operating Systems, ECON200 Intermediate Microeconomics,
+courses_taken_so_far: [CIS555 Internet and Web Systems, CIS521 Artificial Intelligence, CIS519 Applied Machine Learning, CMSC350 Compiler Design,
+                      CMSC345 Theory of Computation, CMSC399 Senior Thesis, CMSC356 Concurrency and Co-Design in Operating Systems, ECON200 Intermediate Microeconomics,
                       ECON201 Analytical Economics, CMSC210 Linear Optimization, ECON247 Financial Accounting, 
                       CMSC395 Mobile Development, CMSC340 Analysis of Algorithms, CMSC240 Computer Organization, CMSC355 Operating System,
                       CMSC311 Computer Security, CMSC245 Principle to Programming Languages, ECON304 Intro to Econometrics,

@@ -7,13 +7,16 @@ permalink: /useful_links
 ---
 
 ## My Publications
+
 - **Automatic Inference of Demographic Parameters Using Generative Adversarial Networks.** Zhanpeng Wang, Jiaping Wang, Michael Kourakos, Nhung Hoang, Hyong Hark Lee, Iain Mathieson, Sara Mathieson bioRxiv 2020.08.05.237834; doi: [https://doi.org/10.1101/2020.08.05.237834](https://doi.org/10.1101/2020.08.05.237834)
 - **Racets: Faceted Execution in Racket.** Kristopher Micinski, Zhanpeng Wang, and Thomas Gilray. In *Scheme and Functional Programming '18*, 2018. [pdf](/assets/files/scheme19.pdf) [git repo](https://github.com/fordsec/racets)
 
 ## Web Browser Automation
+
 - [Selenium](https://www.seleniumhq.org/) - A good tool for automatically using a web browser by writing some Python script
 
 ## Computer Security
+
 - [Buffer Overflow Explained](http://www.informit.com/articles/article.aspx?p=2036582&seqNum=3) - A detailed explanation for buffer overflow
 - [Shellcode injection Tutorial](https://dhavalkapil.com/blogs/Shellcode-Injection/) - Shellcode Injection Tutorial with great detail
 - [Buffer Overflow with Shellcode Injection](https://samsclass.info/127/proj/p3-lbuf1.htm) - An actual assignment for practicing shellcode injection to exploit buffer overflow
@@ -25,6 +28,7 @@ permalink: /useful_links
 - [Protection Against XSS Attack](https://www.hacksplaining.com/prevention/xss-stored) - Protection mechanisms against XSS attack.
 
 ## Helpful Links
+
 - [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/) - CSS Complete Cheat Sheet by WebsiteSetup.org
 - [Emacs Cheat Sheet](http://www.rgrjr.com/emacs/emacs_cheat.html) - Emacs Helpful Tips
 - [GDB Cheat Sheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf) - GDB Quick Reference for Debugging C/C++ programs
