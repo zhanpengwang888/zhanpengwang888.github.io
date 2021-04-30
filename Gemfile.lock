@@ -161,7 +161,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.22.0)
     rough (0.2.6)
       protobuf (>= 3.4)
